@@ -1,1 +1,2 @@
-# last-chance
+# last-chance 
+do or die
